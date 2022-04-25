@@ -1,0 +1,14 @@
+{
+　　"goodsTbl": [{
+　　　　"templateCode": 0,
+　　　　"goodsCode": 1,
+　　　　"goodsName": "150gレギュラーバーグディッシュ",
+　　　　"goodsPrice": 850,
+　　　　"goodsReading": "150gれぎゅらーばーぐでぃっしゅ"
+　　　　}, {
+　　　　"templateCode": 0,
+　　　　"goodsCode": 2,
+　　　　"goodsName": "150gチーズバーグディッシュ",
+　　　　"goodsPrice": 900,
+　　　　"goodsReading": "150gちーずばーぐでぃっしゅ"}]
+}
